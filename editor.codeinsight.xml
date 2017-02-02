@@ -2,7 +2,6 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_METHODS" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Entrata Code Inspections" />
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_FUNCTION_BODY" value="true" />
     <option name="COLLAPSE_METHOD_BODY" value="true" />
