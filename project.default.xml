@@ -256,6 +256,7 @@
           <inspection_tool class="XsltUnusedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
           <inspection_tool class="XsltVariableShadowing" enabled="false" level="WARNING" enabled_by_default="false" />
         </profile>
+        <option name="useProjectProfile" value="false" />
         <option name="PROJECT_PROFILE" />
         <option name="USE_PROJECT_PROFILE" value="false" />
         <version value="1.0" />
@@ -368,16 +369,6 @@
             </selected-state>
           </profile-state>
         </entry>
-      </component>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-        <OptionsSetting value="true" id="Add" />
-        <OptionsSetting value="true" id="Remove" />
-        <OptionsSetting value="true" id="Checkout" />
-        <OptionsSetting value="true" id="Update" />
-        <OptionsSetting value="true" id="Status" />
-        <OptionsSetting value="true" id="Edit" />
-        <ConfirmationsSetting value="0" id="Add" />
-        <ConfirmationsSetting value="0" id="Remove" />
       </component>
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="preferences.keymap" />
